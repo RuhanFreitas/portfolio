@@ -25,12 +25,12 @@ const App: React.FC = () => {
 
       <div id="projects" className="space-y-20 pt-32 pb-24">
         <div className="flex justify-between">
-          <Project image='./image.png' title='chernobly' text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel scelerisque ligula. Suspendisse odio nunc, mattis nec ultricies et, rhoncus nec eros. Donec pharetra eros eu risus imperdiet eleifend.' />
-          <Project image='./image.png' title='chernobly' text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel scelerisque ligula. Suspendisse odio nunc, mattis nec ultricies et, rhoncus nec eros.' />
+          <Project image='./sym.png' title='sym' text='A command-line application built with TypeScript that simulates a banking and investment environment. It allows users to manage accounts, buy and sell stocks, trade cryptocurrencies, and maintain savings, providing a dynamic and interactive experience.' />
+          <Project image='./calendar.png' title='calendar' text='This project is a simple and interactive Calendar built with React. The component allows users to view a calendar, navigate between months, select dates, and manage events. Users can add, edit, and delete events while specifying event times and descriptions.' />
         </div>
         <div className="flex justify-between">
-          <Project image='./image.png' title='chernobly' text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel scelerisque ligula.' />
-          <Project image='./image.png' title='chernobly' text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel scelerisque ligula. Suspendisse odio nunc, mattis nec ultricies et, rhoncus nec eros. Donec pharetra eros eu risus imperdiet eleifend.' />
+          <Project image='./babylon.png' title='babylon' text='babylOn is a frontend e-commerce project focused on functionality and UI. It includes product listing, filtering, a shopping cart, and a checkout simulation, providing a dynamic and interactive user experience. Built entirely with React.' />
+          <Project image='' title='chernobly' text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel scelerisque ligula. Suspendisse odio nunc, mattis nec ultricies et, rhoncus nec eros. Donec pharetra eros eu risus imperdiet eleifend.' />
         </div>
         
       </div>
