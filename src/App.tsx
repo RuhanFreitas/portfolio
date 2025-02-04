@@ -30,7 +30,7 @@ const App: React.FC = () => {
         </div>
         <div className="flex justify-between">
           <Project image='./babylon.png' title='babylon' text='babylOn is a frontend e-commerce project focused on functionality and UI. It includes product listing, filtering, a shopping cart, and a checkout simulation, providing a dynamic and interactive user experience. Built entirely with React.' />
-          <Project image='' title='chernobly' text='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel scelerisque ligula. Suspendisse odio nunc, mattis nec ultricies et, rhoncus nec eros. Donec pharetra eros eu risus imperdiet eleifend.' />
+          <div></div>
         </div>
         
       </div>
